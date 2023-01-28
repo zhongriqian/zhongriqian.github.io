@@ -64,15 +64,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://zhongriqian.github.io/2023/01/27/hello-world/</loc>
-    
-    <lastmod>2023-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://zhongriqian.github.io/</loc>
@@ -84,13 +75,6 @@
   
   <url>
     <loc>http://zhongriqian.github.io/tags/Python/</loc>
-    <lastmod>2023-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -112,6 +96,13 @@
   
   <url>
     <loc>http://zhongriqian.github.io/tags/Socket/</loc>
+    <lastmod>2023-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2023-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
