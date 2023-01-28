@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhongriqian.github.io/Python/index.html</loc>
+    
+    <lastmod>2023-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhongriqian.github.io/C/index.html</loc>
+    
+    <lastmod>2023-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zhongriqian.github.io/2022/05/16/Python%E8%AE%A1%E7%AE%97TBS%E7%A8%8B%E5%BA%8F/</loc>
     
     <lastmod>2023-01-28</lastmod>
