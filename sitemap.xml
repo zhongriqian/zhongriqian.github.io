@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/05/16/Python%E8%AE%A1%E7%AE%97TBS%E7%A8%8B%E5%BA%8F/</loc>
+    
+    <lastmod>2023-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/03/21/Python%E5%AE%9E%E7%8E%B0%E7%8E%8B%E8%9B%87%E5%B1%9E%E8%9B%87%E7%B1%BB%E7%A7%91%E6%99%AE%E7%BD%91%E7%AB%99%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96/</loc>
+    
+    <lastmod>2023-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/08/17/%E6%95%B0%E9%87%87%E7%BD%91%E5%85%B3%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94Modbus-RTU%E4%B8%8EMQTT%E5%8D%8F%E8%AE%AE%E8%BD%AC%E6%8D%A2/</loc>
     
     <lastmod>2023-01-28</lastmod>
