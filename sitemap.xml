@@ -4,7 +4,7 @@
   <url>
     <loc>http://zhongriqian.github.io/2023/02/07/Socket%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
     
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
 
   <url>
     <loc>http://zhongriqian.github.io/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,77 +93,77 @@
   
   <url>
     <loc>http://zhongriqian.github.io/tags/Linux/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/Python/</loc>
-    <lastmod>2023-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhongriqian.github.io/tags/Docker/</loc>
-    <lastmod>2023-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhongriqian.github.io/tags/OpenCV/</loc>
-    <lastmod>2023-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhongriqian.github.io/tags/Socket/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhongriqian.github.io/tags/Docker/</loc>
+    <lastmod>2023-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhongriqian.github.io/tags/OpenCV/</loc>
+    <lastmod>2023-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhongriqian.github.io/tags/Socket/</loc>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/5G/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/TBS/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/C/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/Modbus-RTU/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/tags/MQTT/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -172,21 +172,21 @@
   
   <url>
     <loc>http://zhongriqian.github.io/categories/Linux/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/categories/Python/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhongriqian.github.io/categories/C/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
