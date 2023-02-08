@@ -39,9 +39,9 @@
     
     <category term="Linux" scheme="http://zhongriqian.github.io/tags/Linux/"/>
     
-    <category term="Socket" scheme="http://zhongriqian.github.io/tags/Socket/"/>
-    
     <category term="C" scheme="http://zhongriqian.github.io/tags/C/"/>
+    
+    <category term="Socket" scheme="http://zhongriqian.github.io/tags/Socket/"/>
     
   </entry>
   
@@ -149,11 +149,11 @@
     
     <category term="Python" scheme="http://zhongriqian.github.io/tags/Python/"/>
     
+    <category term="Socket" scheme="http://zhongriqian.github.io/tags/Socket/"/>
+    
     <category term="Docker" scheme="http://zhongriqian.github.io/tags/Docker/"/>
     
     <category term="OpenCV" scheme="http://zhongriqian.github.io/tags/OpenCV/"/>
-    
-    <category term="Socket" scheme="http://zhongriqian.github.io/tags/Socket/"/>
     
   </entry>
   
