@@ -101,6 +101,13 @@
 
   
   <url>
+    <loc>http://zhongriqian.github.io/tags/Linux/</loc>
+    <lastmod>2023-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://zhongriqian.github.io/tags/Python/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,20 +129,6 @@
   </url>
   
   <url>
-    <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2023-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhongriqian.github.io/tags/Linux/</loc>
-    <lastmod>2023-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://zhongriqian.github.io/tags/Docker/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,6 +144,13 @@
   
   <url>
     <loc>http://zhongriqian.github.io/tags/Socket/</loc>
+    <lastmod>2023-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -180,14 +180,14 @@
 
   
   <url>
-    <loc>http://zhongriqian.github.io/categories/Python/</loc>
+    <loc>http://zhongriqian.github.io/categories/Linux/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zhongriqian.github.io/categories/Linux/</loc>
+    <loc>http://zhongriqian.github.io/categories/Python/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
