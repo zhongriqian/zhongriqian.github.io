@@ -1,3 +1,4 @@
+http://zhongriqian.github.io/2023/02/27/EtherCAT-DC%E5%90%8C%E6%AD%A5%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E6%80%9D%E8%B7%AF%E5%8F%8A%E6%8E%A5%E5%8F%A3%E5%87%BD%E6%95%B0%E4%BB%8B%E7%BB%8D/
 http://zhongriqian.github.io/2023/02/20/%E5%A4%9A%E7%BD%91%E5%8D%A1%E4%B8%BB%E6%9C%BADocker%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98/
 http://zhongriqian.github.io/2023/01/28/Linux%E5%B8%B8%E7%94%A8%E7%BD%91%E7%BB%9C%E5%91%BD%E4%BB%A4/
 http://zhongriqian.github.io/2023/02/08/Socket%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/
@@ -10,6 +11,8 @@ http://zhongriqian.github.io/categories/index.html
 http://zhongriqian.github.io/archives/index.html
 http://zhongriqian.github.io/
 http://zhongriqian.github.io/tags/Linux/
+http://zhongriqian.github.io/tags/EtherCAT/
+http://zhongriqian.github.io/tags/C/
 http://zhongriqian.github.io/tags/Python/
 http://zhongriqian.github.io/tags/Docker/
 http://zhongriqian.github.io/tags/OpenCV/
@@ -17,10 +20,9 @@ http://zhongriqian.github.io/tags/Socket/
 http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/
 http://zhongriqian.github.io/tags/5G/
 http://zhongriqian.github.io/tags/TBS/
-http://zhongriqian.github.io/tags/C/
 http://zhongriqian.github.io/tags/Modbus-RTU/
 http://zhongriqian.github.io/tags/MQTT/
 http://zhongriqian.github.io/categories/Linux/
-http://zhongriqian.github.io/categories/Python/
 http://zhongriqian.github.io/categories/C/
+http://zhongriqian.github.io/categories/Python/
 http://zhongriqian.github.io/categories/Docker/
