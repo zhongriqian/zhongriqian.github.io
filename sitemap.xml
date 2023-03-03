@@ -159,6 +159,13 @@
   </url>
   
   <url>
+    <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://zhongriqian.github.io/tags/5G/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -167,13 +174,6 @@
   
   <url>
     <loc>http://zhongriqian.github.io/tags/TBS/</loc>
-    <lastmod>2023-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhongriqian.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
